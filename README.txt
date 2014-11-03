@@ -50,3 +50,10 @@ k = 0
 If two terms have same frequency, print them in lexicographical order
 
 --------------------------------------------------
+To do
+
+Add tests
+Ask for input
+Suppress print lines
+
+--------------------------------------------------

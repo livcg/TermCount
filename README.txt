@@ -5,7 +5,7 @@ From Question #2 on http://evernote.com/careers/challenge.php
 
 
 --------------------------------------------------
-Psuedo code
+Pseudo code
 
 # Collect & process input
 Input => int n
